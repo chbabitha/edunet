@@ -1,7 +1,1 @@
-import random
-def lucky_number(name):
-number = random.random(1,100)
-  return f"{name},your lucky number today is {number}!"
-  if___name___=="___main___":
-      user =input("enter your name")
-      print(lucky_number(user))
+print("hello world")
